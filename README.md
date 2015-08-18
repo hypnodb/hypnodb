@@ -1,2 +1,3 @@
 # hypnodb
-Repository for feature requests for the hypnosis database (sy44dubmbet27dzn.onion)
+
+Please use this repository to report issues and request new features.
